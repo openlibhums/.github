@@ -9,7 +9,7 @@ We work in the open, use open tools, and welcome contributions from others in th
 - The core [Janeway](https://github.com/openlibhums/janeway) platform  
 - [Plugins](https://github.com/openlibhums?q=plugin&type=all&language=&sort=)  
 - Utilities, scripts, and infrastructure tools
-- [2025 Roadmap](https://github.com/orgs/openlibhums/projects/21)  
+- [Dev Roadmap](https://github.com/orgs/openlibhums/projects/21)  
 - [Development Timline](https://github.com/orgs/openlibhums/projects/35)
 
 ## Get in touch
